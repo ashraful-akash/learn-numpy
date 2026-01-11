@@ -138,5 +138,4 @@ After completing core foundations, this repository will be **frozen** and extend
 **Ashraful**  
 Undergraduate Student, Computer Science & Engineering  
 Research interests: Machine Learning, Deep Learning, NLP, Computer Vision, Human-centered AI
-```
 
