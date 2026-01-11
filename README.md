@@ -24,6 +24,7 @@ This repository serves as:
 
 
 
+```
 ml-dl-foundations/
 ├── numpy/
 ├── pandas/
@@ -31,6 +32,7 @@ ml-dl-foundations/
 ├── ml/
 ├── dl/
 └── README.md
+```
 
 Each folder represents a **stage in the ML/DL learning pipeline**, progressing from data representation to learning algorithms.
 
